@@ -29,9 +29,9 @@ Attribute Information
 
 Points Covered
 
-Data Preprocessing
-Exploratory Data Analysis
-Model Building
-Handling Data Imbalance
-Saving the model (creating pkl file)
-Model Deployment using Flask
+Data Preprocessing, 
+Exploratory Data Analysis, 
+Model Building, 
+Handling Data Imbalance, 
+Saving the model (creating pkl file),
+Model Deployment using Flask.
